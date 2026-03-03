@@ -1,23 +1,3 @@
-# import json
-# from pathlib import Path
-#
-# DATA_DIR = Path("data")
-# DATA_DIR.mkdir(exist_ok=True)
-#
-# USERS_FILE = DATA_DIR / "users.json"
-# REWARDS_FILE = DATA_DIR / "rewards.json"
-# EMPLOYEE_FILE = DATA_DIR / "employee.json"
-#
-# def read_json(file):
-#     if not file.exists():
-#         return []
-#     with open(file, "r") as f:
-#         return json.load(f)
-#
-# def write_json(file, data):
-#     with open(file, "w") as f:
-#         json.dump(data, f, indent=2)
-
 import json
 from pathlib import Path
 
