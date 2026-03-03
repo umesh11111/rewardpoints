@@ -1,0 +1,12 @@
+[
+  {
+    "employee_name": "Umesh Patel",
+    "employee_id": "EMP001",
+    "email": "umesh.patel@gft.com",
+    "password": "$bcrypt-sha256$v=2,t=2b,r=12$dK.KaRA3F5ORvPUvAbvwiu$Zcjs9tUJJM5iN7Hnw0e1evb9Xo4tN76",
+    "role": "Team Member",
+    "location": "Hyderabad",
+    "status": "APPROVED",
+    "created_at": "2026-02-27 13:12:02"
+  }
+]
